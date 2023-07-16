@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\RedisModification\RedisModification\bin\Debug\RedisModification.dll
+C:\Users\Administrator\source\repos\RedisModification\RedisModification\bin\Debug\RedisModification.pdb
+C:\Users\Administrator\source\repos\RedisModification\RedisModification\obj\Debug\RedisModification.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\RedisModification\RedisModification\obj\Debug\RedisModification.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RedisModification\RedisModification\obj\Debug\RedisModification.dll
+C:\Users\Administrator\source\repos\RedisModification\RedisModification\obj\Debug\RedisModification.pdb
